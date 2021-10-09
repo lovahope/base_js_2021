@@ -27,3 +27,33 @@
 // const age = 20;
 // const result = age >= 18 ? "Доступ разрешен" : "Доступ запрещен";
 // console.log(result);
+
+// const name = "Alex";
+// switch ("Mary") {
+//   case "Ivan":
+//     console.log("IVAN");
+//     break;
+//   case "Alex":
+//     console.log("ALEX");
+//     break;
+//   case "Max":
+//     console.log("MAX");
+//     break;
+//   default:
+//     console.log("Имя нет в списке");
+// }
+
+// switch ("Ivan") {
+//   case "Ivan":
+//     console.log("IVAN");
+//     break;
+//   case "Alex":
+//     console.log("ALEX");
+//     return;
+//   case "Max":
+//     console.log("MAX");
+//     return;
+//   default:
+//     console.log("Имя нет в списке");
+// }
+// console.log("FINISH");
